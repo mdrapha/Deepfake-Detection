@@ -1,4 +1,6 @@
 # Algoritmo para Detecção de Deepfakes
+Autores: Raphael Damasceno R. de Moraes e Marco Antonio Coral dos Santos
+
 
 Diante a problemática do uso indevido das tecnologias generativas para produção de Deepfakes; vê-se necessário a criação de mecanismos para combate de tais problemas.
 
