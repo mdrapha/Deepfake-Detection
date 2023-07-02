@@ -11,3 +11,7 @@ Lidando com a tamanha importância da necessidade de popularização de mecanism
 # **Resultados obtidos**
 
 O modelo treinado foi capaz de obter uma acurácia média de **99.88%** na classificação de imagens reais e falsas do dataset principal, ultrapassando o antigo baseline que tinha um resultado médio de 99% de acurácia. Ainda que o baseline ja se tratasse de um resultado satisfatório, o modelo em questão desenvolvido se demonstrou mais eficaz em cenários mais generalistas diante dos métodos de aumento de dados aplicados em seu treinamento, possibilitando sua utilização com poucos ajustes em cenários diveros de deepfakes.
+
+# **Acesso a apresentação em vídeo**
+
+Vídeo do youtube: [Detecção de Deepfakes](https://youtu.be/zIx-OathVQU)
