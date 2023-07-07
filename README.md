@@ -17,7 +17,7 @@ The trained model was able to achieve an average accuracy of **99.88%** in class
 YouTube video: [Detecção de Deepfakes](https://youtu.be/zIx-OathVQU)
 
 ---
-##**PT-BR**
+## **PT-BR**
 # **Algoritmo para Detecção de Deepfakes**
 Autores: Raphael Damasceno R. de Moraes e Marco Antonio Coral dos Santos
 
