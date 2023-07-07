@@ -1,3 +1,23 @@
+# **Algorithm for Deepfake Detection**
+Authors: Raphael Damasceno R. de Moraes and Marco Antonio Coral dos Santos
+
+
+Given the issue of the misuse of generative technologies for the production of Deepfakes, it is necessary to create mechanisms to combat such problems.
+
+This project aims to use a famous [dataset](/data/README.md) of deepfakes, with excellent production quality, produced by **StyleGAN's**, to create a model capable of classifying the images as real and fake.
+
+Considering the importance of popularizing combat mechanisms like these, in order to inhibit the improper use of technologies that should assist society instead of harming it.
+
+# **Results obtained**
+
+The trained model was able to achieve an average accuracy of **99.88%** in classifying real and fake images from the main dataset, surpassing the old baseline that had an average accuracy of 99%. Even though the baseline was already a satisfactory result, the developed model proved to be more effective in more general scenarios considering the data augmentation methods applied in its training, allowing its use with few adjustments in diverse deepfake scenarios.
+
+# **Access to video presentation**
+
+YouTube video: [Detecção de Deepfakes](https://youtu.be/zIx-OathVQU)
+
+---
+##**PT-BR**
 # **Algoritmo para Detecção de Deepfakes**
 Autores: Raphael Damasceno R. de Moraes e Marco Antonio Coral dos Santos
 
